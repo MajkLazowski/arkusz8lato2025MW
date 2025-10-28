@@ -6,6 +6,9 @@ a{
     color: white;
     text-decoration: none;
 }
+a:hover{
+    text-decoration: underline;
+}
 header,footer{
     background-color: tomato;
     color: mistyrose;
@@ -49,3 +52,4 @@ dt:hover{
     font-size: 180%;
 
 }                       
+
